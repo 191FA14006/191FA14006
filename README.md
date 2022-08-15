@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently pursuing my under graduation final year
 - 💞️ I’m looking to collaborate on coding projects 
-- 📫 contact me via linked in
+- 📫 contact me via mail : dheerajganta2212@gmail.com
 
 <!---
 191FA14006/191FA14006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
