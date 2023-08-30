@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @191FA14006
 - 👀 I’m interested in coding
-- 🌱 I’m currently pursuing my under graduation final year
+- 🌱 Pursued my under graduation final year recently
 - 💞️ I’m looking to collaborate on coding projects 
 - 📫 contact me via mail : dheerajganta2212@gmail.com
 
