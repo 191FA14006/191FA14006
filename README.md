@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Dheeraj
-- 💞️ I’m looking to collaborate on coding projects
-- 📫 contact me via mail : dheerajganta2212@gmail.com
-
-<!---
-191FA14006/191FA14006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Dheeraj Ganta – AWS DevOps Engineer with 1.8+ years of experience in CI/CD, cloud infrastructure, and Kubernetes-based deployments. 
+🚀 Skilled in AWS, Jenkins, Docker, Kubernetes, GitHub Actions, Python, and automation across the DevOps lifecycle.  
+🤖 Experienced in integrating OpenAI APIs with prompt engineering for intelligent data validation and workflow automation.  
+📫 dheerajganta2212@gmail.com | 🔗 LinkedIn: https://www.linkedin.com/in/ganta-dheeraj-085213gd/
